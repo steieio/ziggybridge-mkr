@@ -5399,7 +5399,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "A4"
+	(gr_text "CS"
 		(at 131.445 110.49 0)
 		(layer "F.SilkS")
 		(uuid "a8b9cb54-11d6-45dd-9ed0-7dce9b7197f5")
@@ -5458,7 +5458,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "CS"
+	(gr_text "A1"
 		(at 131.445 102.87 0)
 		(layer "F.SilkS")
 		(uuid "c39b842c-d8bf-4981-9f97-421e4c1e1ba3")
@@ -5780,7 +5780,7 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "CS"
+	(gr_text "A1"
 		(at 130.81 102.87 0)
 		(layer "B.SilkS")
 		(uuid "4371e833-c1b2-479c-b2f8-863a65204517")
@@ -5997,7 +5997,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "A4"
+	(gr_text "CS"
 		(at 130.81 110.49 0)
 		(layer "B.SilkS")
 		(uuid "79ebd2cd-0218-4e2b-805a-4f8500de35c6")
