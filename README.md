@@ -13,4 +13,6 @@ This board adapts the MKR dual inline headers to the following connection standa
 
 One of the PMOD connectors is issolated on pins D0-D7, the other is connected in parallel with the click/qwiic/uart connectors.
 
-![3D render of board](mkrmod.png)
+![3D render of board](img/ziggybridge-mkr.png)
+![OshPARK front](img/oshpark-front.png)
+![OshPARK back](img/oshpark-back.png)
