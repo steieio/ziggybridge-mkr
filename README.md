@@ -16,5 +16,7 @@ One of the PMOD connectors is issolated on pins D0-D7, the other is connected in
 [Click here to view in Kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fsteieio%2Fziggybridge-mkr)
 
 ![3D render of board](img/ziggybridge-mkr.png)
+
+[Click here to purchase from OSH Park](https://oshpark.com/shared_projects/fBhDnFxY)
 ![OshPARK front](img/oshpark-front.png)
 ![OshPARK back](img/oshpark-back.png)
